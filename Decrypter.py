@@ -278,8 +278,3 @@ for z in range(len(MensajeDesencriptado)):
 
 
 print(Mensaje)
-'''print(Mensaje)
-
-print(RangePi)
-
-print(pares)'''
